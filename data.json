@@ -1,4 +1,4 @@
-    let customerList = [
+[
     {
       "id": 1,
       "name": "고길동",
